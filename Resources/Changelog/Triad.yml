@@ -5878,3 +5878,12 @@ Entries:
   id: 2698
   time: '2026-10-30T22:55:28.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/781
+- author: TheRealMasterChief117
+  changes:
+    - type: Fix
+      message: Fixed saved actions breaking.
+    - type: Remove
+      message: Removed IPCs having weaker armor values when they lose battery charge
+  id: 2699
+  time: '2026-10-31T10:50:09.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/783
