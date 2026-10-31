@@ -5887,3 +5887,10 @@ Entries:
   id: 2699
   time: '2026-10-31T10:50:09.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/783
+- author: nathan736
+  changes:
+    - type: Fix
+      message: shuttle consoles longer lose their encryption keys on save load cycle
+  id: 2700
+  time: '2026-10-31T10:51:47.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/780
